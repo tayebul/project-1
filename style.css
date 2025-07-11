@@ -206,7 +206,41 @@ nav h3{
 }
 
 .fourth-sec{
-    margin: 116px 140px;
-    height: 342px;
+    margin: 116px 138px;
 
+    height: 697px;
+    background-color: white;
+    padding: 71px 150px;
+}
+.h1-fourth{
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+.p-fourth{
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.50);
+    text-align: center;
+    
+}
+.get-started-btn{
+    width: 195px;
+    height: 48px;
+    border: 0.5px solid #4E47FF;
+    border-radius: 10px;
+    color: white;
+    background-color: #4E47FF;
+    text-align: center;
+    font-size: 16px;
+    margin: 20px 36.5%;
+    
+}
+
+.img-fourth{
+    width: 760px;
+    height: 330px;
+    border-radius: 48px;
+    margin-top: 20px;
+    
 }
