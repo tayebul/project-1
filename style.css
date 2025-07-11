@@ -145,9 +145,9 @@ nav h3{
 .third-sec-part-2{
     width: 366px;
     height: 243px;
-    border: 1px solid #F2EDED;
+    border: 1.6px solid #F2EDED;
     border-radius: 14px;
-    box-shadow: 1px 1px 10px 8px rgb(236, 244, 252);
+    box-shadow: 1px 1px 10px 5px rgb(236, 244, 252);
 
 }
 
