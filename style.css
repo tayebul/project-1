@@ -1,0 +1,206 @@
+.inter-fnt{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600px;
+    font-style: normal;
+  }
+  .open-sans-raleway {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800px;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+
+
+body{
+     max-width: 1366px;
+     background-color: rgba(120, 156, 255, 0.07);
+    
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 150px;  
+    padding: 50px 0px; 
+}
+nav h3{
+    font-size: 34px;
+    color: #4E47FF;
+    
+}
+.signup-btn{
+    background-color: #4E47FF;
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 15px 35px;
+    border: 1px solid #4E47FF;
+    border-radius: 11px;    
+}
+.banner{
+    
+    text-align: center;
+}
+
+.main-text{
+    font-weight: bold;
+    font-size: 65px;
+    color: #252432;
+}
+.focus-btn{
+    width: 174px;
+    height: 48px;
+    border: 1px solid #4E47FF;
+    border-radius: 10px; 
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #4E47FF;
+    color: white;
+
+}
+
+.header{
+    background-image: url(Hero-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 150px;
+
+}
+.first-sec{
+    margin: 116px 140px;
+    width: 80%;
+    height: 328px;
+    display: flex;
+    gap: 220px;
+}
+
+.first-sec-left{
+    width: 517px;
+    height: 203px;
+}
+
+.first-sec-left-head{
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+}
+.first-sec-left-paragraph{
+    color: rgba(37, 36, 50, 0.5);
+    font-size: 24px;
+} 
+.first-sec-left-btn{
+    width: 229px;
+    height: 48px;
+    border: 1px solid #4E47FF;
+    border-radius: 10px; 
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #4E47FF;
+    color: white;
+
+}
+.first-sec-pic-1{
+    width: 403px;
+    height: 328px;
+    border-radius: 48px;
+}
+
+.second-sec{
+    background-color: rgba(77, 71, 255, 0.10);
+    margin: 116px 140px;
+    height: 306px;
+    padding: 50px 142px;
+    border-radius: 10px;
+}
+
+.second-sec-part-2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.second-sec-upper{
+    font-size: 80px;
+    font-weight: bold;
+    color: #4E47FF;
+}
+
+.second-sec-lower{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.third-sec{
+    margin: 116px 140px;
+    height: 342px;
+}
+.third-sec-inner{
+    display: flex;
+    gap: 20px;
+}
+
+.third-sec-part-2{
+    width: 366px;
+    height: 243px;
+    border: 1px solid #F2EDED;
+    border-radius: 14px;
+    box-shadow: 1px 1px 10px 8px rgb(236, 244, 252);
+
+}
+
+.review-dscrp{
+    width: 318px;
+    height: 81px;
+    margin: 24px;
+}
+
+.review-head{
+    font-size: 24px;
+    font-weight: bold;
+    color: #1E1E1E;
+    margin-bottom: 9px;
+
+}
+.review-detail{
+    font-size: 16px;
+    color: #1E1E1E;
+    margin-top: 0px;
+
+
+}
+
+.reviewer{
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    margin: 24px;
+}
+.reviewer-name{
+    color: #757575;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0px;
+}
+.date{
+    margin: 0px;
+}
+.personal-details{
+    gap: 0px;
+}
+.star-icons{
+    width: 116px;
+    height: 20px;
+    margin: 24px;
+}
+.star{
+    width: 20px;
+    height: 20px;
+}
+.avatar{
+    height: 40px;
+    width: 40px;
+    border-radius: 9999px;
+}
