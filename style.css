@@ -15,7 +15,7 @@
 
 
 body{
-    
+    justify-content: center;
      background-color: rgba(120, 156, 255, 0.07);
     
 }
@@ -356,6 +356,5 @@ nav h3{
 .main-box-footer-lower{
     margin: 0 auto;
     padding-left: 377px ;
-    padding-right: 417px;
-    
+    padding-right: 417px;   
 }
